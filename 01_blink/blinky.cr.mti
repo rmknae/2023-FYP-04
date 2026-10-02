@@ -1,0 +1,15 @@
+C:/Users/ramee/Desktop/2023-FYP-04/01_blink/blink.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ramee/Desktop/2023-FYP-04/01_blink/blink.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module blink
+
+Top level modules:
+	blink
+
+} {} {}} C:/Users/ramee/Desktop/2023-FYP-04/01_blink/blink_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ramee/Desktop/2023-FYP-04/01_blink/blink_tb.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module blink_tb
+
+Top level modules:
+	blink_tb
+
+} {} {}}
