@@ -1,0 +1,101 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/ramee/Desktop/2023-FYP-04/02_uart_tx
+T_opt
+!s110 1790936013
+VbzOgT:IcQX2C=Z0SdLPQO2
+04 13 4 work i2c_master_tb fast 0
+=1-50a13276ad8a-6abf83cd-39-17cc
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+vi2c_master
+2C:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master/i2c_master.sv
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1790936004
+!i10b 1
+!s100 27REXWU3h_QkZm1G7nmie0
+IS_14EZZi1XF0Q=<cfYO_G3
+S1
+Z3 dC:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master
+w1790935764
+8C:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master/i2c_master.sv
+FC:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master/i2c_master.sv
+!i122 0
+L0 35 549
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z6 !s108 1790936004.000000
+!s107 C:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master/i2c_master.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master/i2c_master.sv|
+!i113 0
+Z7 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vi2c_master_tb
+2C:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master/i2c_master_tb.sv
+R2
+Z8 !s110 1790936005
+!i10b 1
+!s100 kRNGEgj^Z?9GE789[LVnH1
+IfK_4_H_d^Jf3if42nEegC1
+S1
+R3
+w1790935961
+8C:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master/i2c_master_tb.sv
+FC:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master/i2c_master_tb.sv
+!i122 1
+L0 230 198
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master/i2c_master_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master/i2c_master_tb.sv|
+!i113 0
+R7
+R1
+vwho_am_i_top
+2C:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master/who_am_i_top.sv
+R2
+R8
+!i10b 1
+!s100 0XcMOWMiRWg4dD>S7XR^91
+ImeBlYdOYIK^:zTe;db[mQ2
+S1
+R3
+w1790935856
+8C:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master/who_am_i_top.sv
+FC:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master/who_am_i_top.sv
+!i122 2
+L0 23 111
+R4
+R5
+r1
+!s85 0
+31
+!s108 1790936005.000000
+!s107 C:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master/who_am_i_top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/ramee/Desktop/2023-FYP-04/03_i2c_master/who_am_i_top.sv|
+!i113 0
+R7
+R1

@@ -1,0 +1,22 @@
+C:/Users/ramee/Desktop/2023-FYP-04/02_uart_tx/uart_tx_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ramee/Desktop/2023-FYP-04/02_uart_tx/uart_tx_tb.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module uart_tx_tb
+
+Top level modules:
+	uart_tx_tb
+
+} {} {}} C:/Users/ramee/Desktop/2023-FYP-04/02_uart_tx/uart_demo_top.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ramee/Desktop/2023-FYP-04/02_uart_tx/uart_demo_top.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module uart_demo_top
+
+Top level modules:
+	uart_demo_top
+
+} {} {}} C:/Users/ramee/Desktop/2023-FYP-04/02_uart_tx/uart_tx.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/ramee/Desktop/2023-FYP-04/02_uart_tx/uart_tx.sv
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module uart_tx
+
+Top level modules:
+	uart_tx
+
+} {} {}}

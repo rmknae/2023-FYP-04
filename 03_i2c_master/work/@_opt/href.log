@@ -1,0 +1,4 @@
+BEGIN 1:i2c_master:fast:work
+    state :  1:i2c_master_tb:fast:work
+    bit_idx :  1:i2c_master_tb:fast:work
+END 
